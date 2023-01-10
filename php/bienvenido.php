@@ -4,7 +4,7 @@ session_start();
 if (!isset($_SESSION['usuario'])) {
     echo '
         <script>
-            alert("Porfavor debes iniciar sesion");
+            alert("Porfavor debes iniciar sesion.");
             window.location = "../index.php";
         </script>
     ';

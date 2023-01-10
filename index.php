@@ -30,7 +30,7 @@
             <button id="btn_iniciar_sesion">Iniciar Sesión</button>
           </div>
           <div class="caja_atras-register">
-            <h3>¿Aún no tienes una cuenta?</h3>
+            <h3>¿Aún no tienes una cuenta.?</h3>
             <p>Registrate para Iniciar sesión</p>
             <button id="btn_Registrarse">Regístrarse</button>
           </div>
